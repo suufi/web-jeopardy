@@ -10,16 +10,21 @@
       },
       {
         "label": "200",
+        "q": "What was used instead of sugar?",
+        "a": "Honey from bees"
+      },
+      {
+        "label": "300",
         "q": "For what purpose did farmers keep animals?",
         "a": "Food, transport, wool/leather clothing, fertilizer, and bone are acceptable."
       },
       {
-        "label": "300",
+        "label": "400",
         "q": "How were farmers able to continue farming in the marshlands?",
         "a": "Through the use of dikes and tiles."
       },
       {
-        "label": "400",
+        "label": "500",
         "q": "How did Celtic chieftains originally get slaves?",
         "a": "Taken in raids and inter-tribal warfare"
       }
@@ -46,8 +51,13 @@
       },
       {
         "label": "400",
-        "q": "What is the current version of SUSE Linux Enterprise?",
-        "a": "answers/en/products/sles.html"
+        "q": "What is SID SPACE used for?",
+        "a": "For figuring out ablatives"
+      }, 
+      {
+        "label": "500",
+        "q": "What two cases have the same endings across the first 3 declensions?",
+        "a": "Dative and ablative"
       }
     ]
   },
@@ -74,6 +84,11 @@
         "label": "400",
         "q": "Who is Salvius honoring (where he plans on bringing a gift)?",
         "a": "Emperor Cladius"
+      },
+      {
+        "label": "500",
+        "q": "Where did Salvius' wine come from?",
+        "a": "Italy"
       }
     ]
   },
@@ -98,6 +113,41 @@
       },
       {
         "label": "400",
+        "q": "What Latin word means husband?",
+        "a": "Maritus"
+      },
+      {
+        "label": "500",
+        "q": "What two words can ubi translate into?",
+        "a": "When and where"
+      }
+    ]
+  }, {
+    "name": "Translations",
+    "description": "Translating Latin sentences",
+    "questions": [
+      {
+        "label": "100",
+        "q": "Translate: Salvius rex est",
+        "a": "Salvius is king."
+      },
+      {
+        "label": "200",
+        "q": "Translate: domina fidelis non est",
+        "a": "The mistress is not faithful"
+      },
+      {
+        "label": "300",
+        "q": "Translate: taurus horeum delevit",
+        "a": "The bull destroyed the barn."
+      },
+      {
+        "label": "400",
+        "q": "Translate: Salvius Quintum in horto duxit",
+        "a": "Salvius led Quintus into the garden"
+      },
+      {
+        "label": "500",
         "q": "Translate: domina donum vult sed maritus avarus est.",
         "a": "The mistress wanted a gift but the maritus was greedy."
       }
