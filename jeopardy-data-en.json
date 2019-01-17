@@ -1,48 +1,48 @@
 [
   {
-    "name": "History",
-    "description": "History of SUSE",
+    "name": "Culture",
+    "description": "Roman Culture",
     "questions": [
       {
         "label": "100",
-        "q": "What is the name of the event where SUSE engineers experiment, innovate and learn interruption-free?",
-        "a": "answers/en/history/hackweek.html"
+        "q": "Name 1 kind of crop that was grown in Britain.",
+        "a": "Barley, oats, rye, or wheat are acceptable"
       },
       {
         "label": "200",
-        "q": " When was SUSE founded?",
-        "a": "answers/en/history/suse.html"
+        "q": "For what purpose did farmers keep animals?",
+        "a": "Food, transport, wool/leather clothing, fertilizer, and bone are acceptable."
       },
       {
         "label": "300",
-        "q": "What are the names of the annual SUSE Conferences?",
-        "a": "answers/en/history/susecon.html"
+        "q": "How were farmers able to continue farming in the marshlands?",
+        "a": "Through the use of dikes and tiles."
       },
       {
         "label": "400",
-        "q": "To which enterprise (group of companies) does SUSE belong?",
-        "a": "answers/en/history/microfocus.html"
+        "q": "How did Celtic chieftains originally get slaves?",
+        "a": "Taken in raids and inter-tribal warfare"
       }
     ]
   },
   {
-    "name": "Products",
-    "description": "What we create",
+    "name": "Grammar",
+    "description": "Latin Grammar (Prepositions & Adjectives)",
     "questions": [
       {
         "label": "100",
-        "q": "What is the name of the Open Source project behind SUSE Linux Enterprise?",
-        "a": "answers/en/products/opensuse.html"
+        "q": "How does the adjective has to agree with the ______?",
+        "a": "Noun"
       },
       {
         "label": "200",
-        "q": "What is the name of the SUSE tool to build and distribute packages?",
-        "a": "answers/en/products/obs.html"
+        "q": "What case is <b> in </b> tablino?",
+        "a": "Ablative Case"
       },
       {
         "label": "300",
-        "q": "What is the name of the testframework SUSE developed to test openSUSE and SUSE Linux Enterprise?",
-        "a": "answers/en/products/openqa.html"
+        "q": "What do you use CAPPI PATSI for? ",
+        "a": "Figuring out the prepositions you use with the accusative case"
       },
       {
         "label": "400",
@@ -52,54 +52,54 @@
     ]
   },
   {
-    "name": "Fun",
-    "description": "Haha",
+    "name": "Story Time",
+    "description": "Questions about the story in the book",
     "questions": [
       {
         "label": "100",
-        "q": "What is the SUSE company logo?",
-        "a": "answers/en/fun/chameleon.html"
+        "q": "Who's coming to visit Salvius and Rufilla?",
+        "a": "Quintus"
       },
       {
         "label": "200",
-        "q": "What is the name of the Linux penguin?",
-        "a": "answers/en/fun/tux.html"
+        "q": "Who cleans up instead of Domitilla?",
+        "a": "Volubilis"
       },
       {
         "label": "300",
-        "q": "What is the 'Answer to the Ultimate Question of Life, the Universe, and Everything'?",
-        "a": "answers/en/fun/42.html"
+        "q": "Who are Quintus and Salvius planning on giving a gift to?",
+        "a": "Cogidubnum"
       },
       {
         "label": "400",
-        "q": "What is the name of the second program Linus Torvalds, the founder of Linux, named after himself?",
-        "a": "answers/en/fun/git.html"
+        "q": "Who is Salvius honoring (where he plans on bringing a gift)?",
+        "a": "Emperor Cladius"
       }
     ]
   },
   {
-    "name": "People",
-    "description": "Linux celebs ;-)",
+    "name": "Vocabulary",
+    "description": "Latin Vocabulary",
     "questions": [
       {
         "label": "100",
-        "q": "Who is the founder of Linux?",
-        "a": "answers/en/people/linus.html"
+        "q": "What does deus mean?",
+        "a": "Something"
       },
       {
         "label": "200",
-        "q": "Who founded 1985 the Free Software Foundation?",
-        "a": "answers/en/people/stallman.html"
+        "q": "What does lavo mean?",
+        "a": "Wash"
       },
       {
         "label": "300",
-        "q": "Who made the quoatation 'Linux is obsolete'?",
-        "a": "answers/en/people/tanenbaum.html"
+        "q": "What Latin word means although?",
+        "a": "Quamquam"
       },
       {
         "label": "400",
-        "q": "Who are the founders of SUSE?",
-        "a": "answers/en/people/founder.html"
+        "q": "Translate: domina donum vult sed maritus avarus est.",
+        "a": "The mistress wanted a gift but the maritus was greedy."
       }
     ]
   }
